@@ -13,7 +13,7 @@ Desarrollar un **proyecto completo y escalable** que sirva como demostración t�
 - arquitectura limpia (Clean / Hexagonal),
 - y uso combinado de tecnologías modernas (SQL + NoSQL, tiempo real, autenticación, pagos).
 
-> 📄 Más detalles en [`docs/VISION.md`](./docs/VISION.md)
+> 📄 Más detalles en [`VISION.md`](./VISION.md)
 
 ---
 
@@ -71,4 +71,4 @@ Desarrollar un **proyecto completo y escalable** que sirva como demostración t�
 Definición de módulos, arquitectura y stack inicial.  
 Siguiente paso: diseño técnico del backend y estructura de monorepo.
 
-> 📄 Roadmap completo en [`docs/ROADMAP.md`](./docs/ROADMAP.md)
+> 📄 Roadmap completo en [`ROADMAP.md`](./ROADMAP.md)
